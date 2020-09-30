@@ -1,1 +1,3 @@
 This is the file where we will write together. 
+
+I think we could add something about sed since it's really useful.
