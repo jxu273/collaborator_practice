@@ -1,3 +1,4 @@
 This is the file where we will write together. 
 
-I'm gonna write something that doesn't make sense and push it to see if there's conflict. 
+There was a conflict but we solved it.
+
