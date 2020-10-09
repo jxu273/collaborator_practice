@@ -5,4 +5,6 @@ There was a conflict but we solved it.
 
 10/09/2020
 
-Right now I'm checking out the master branch and addd this new line to this file. 
+- Right now I'm checking out the master branch and addd this new line to this file. 
+
+- After I have created a branch called `file-update`, I'm going to push the current change to this branch. 
