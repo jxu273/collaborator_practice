@@ -1,4 +1,5 @@
 9/30/2020
+
 This is the file where we will write together. 
 
 There was a conflict but we solved it.
@@ -9,13 +10,16 @@ There was a conflict but we solved it.
 
 - After I have created a branch called `file-update`, I'm going to push the current change to this branch. 
 
-<<<<<<< HEAD
+
+
 - There were some errors and now I'm going to test if it works. 
-=======
+
 - There were some errors in creating my branch but now they all are fixed
 
 - Switched to master branch already
->>>>>>> ab2985b33236ffe6aa6d65c31219d7a3db566c41
+
 
 
 - It's interesting!!!
+
+- There was a merging conflict
