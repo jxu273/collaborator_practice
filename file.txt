@@ -12,12 +12,16 @@ There was a conflict but we solved it.
 
 
 
+
 - There were some errors and now I'm going to test if it works. 
 
 - There were some errors in creating my branch but now they all are fixed
 
 - Switched to master branch already
 
+
+
+- There were some errors and now I'm going to test if it works. 
 
 
 - It's interesting!!!
