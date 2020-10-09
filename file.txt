@@ -9,6 +9,4 @@ There was a conflict but we solved it.
 
 - After I have created a branch called `file-update`, I'm going to push the current change to this branch. 
 
-- There were some errors in creating my branch but now they all are fixed
-
-- Switched to master branch already
+- There was a merging conflict
