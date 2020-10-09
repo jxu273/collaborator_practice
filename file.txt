@@ -1,4 +1,8 @@
+9/30/2020
 This is the file where we will write together. 
 
 There was a conflict but we solved it.
 
+10/09/2020
+
+Right now I'm checking out the master branch and addd this new line to this file. 
